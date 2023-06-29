@@ -13,6 +13,7 @@ In this week, we will run NeRF applications and check out the results.
   Once you successfully execute their code, you will be able to visualize NeRF training.
   ![image](https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/f46e7aa2-71d5-43f7-944f-ca155d0f4e5d)
 
+\br
 > 1-2. TODO: Run NeRFacto using your own data (Custom dataset)
 
 
