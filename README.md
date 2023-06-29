@@ -17,7 +17,7 @@ In this week, we will run NeRF applications and check out the results.
   conda activate nerfstudio
   python -m pip install --upgrade pip
   
-  
+  conda install pytorch==1.12.1 torchvision==0.13.1 torchaudio==0.12.1 cudatoolkit=11.3 -c pytorch
   pip install ninja git+https://github.com/NVlabs/tiny-cuda-nn/#subdirectory=bindings/torch
   ```
 
