@@ -1,5 +1,7 @@
 # Tutorial_3
 ### NeRF applications
+	😀	:grinning:
+In this week, we will run different NeRF applications. 
 
 NeRFStudio github: https://github.com/nerfstudio-project/nerfstudio
 
