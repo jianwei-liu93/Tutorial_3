@@ -8,18 +8,20 @@ NOTE: Most materials are borrowed from opensource framework.
 In this week, we will run NeRF applications and check out the results. 
 1. NeRFStudio has a variety of NeRF implementations and you can visualize the training process online. [NeRFStudio project page](https://docs.nerf.studio/en/latest/index.html)
 
-> 1-1. TODO: Run NeRFacto and visualize training process 
+> 1-1. (TODO) Run NeRFacto and visualize training process 
   Follow the instructions specified at [NeRFStudio github](https://github.com/nerfstudio-project/nerfstudio).
+
+  git clone https://github.com/nerfstudio-project/nerfstudio.git
+  cd nerfstudio
+  pip install --upgrade pip setuptools
+  pip install -e .
+  
   Once you successfully execute their code, you will be able to visualize NeRF training.
   ![image](https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/f46e7aa2-71d5-43f7-944f-ca155d0f4e5d)
 
-<br />
-> 1-2. TODO: Run NeRFacto using your own data (Custom dataset)
+> 1-2. (TODO) Run NeRFacto using your own data [Use custom data on NeRFStudio](https://docs.nerf.studio/en/latest/quickstart/custom_dataset.html)
 
-
-- (TODO) Run NeRFacto on NeRFStudio
-- (TODO): Try with your own data (COLMAP) : [Use custom data on NeRFStudio](https://docs.nerf.studio/en/latest/quickstart/custom_dataset.html)
-- (Optional) Run using other methods: Instant-NGP, Mip-NeRF, TensoRF
+> 1-3. (Optional) Run using other methods: Instant-NGP, Mip-NeRF, TensoRF
 
 
 SDFStudio github: https://github.com/autonomousvision/sdfstudio
