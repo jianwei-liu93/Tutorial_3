@@ -17,7 +17,7 @@ In this week, we will run NeRF applications and check out the results.
   conda activate nerfstudio
   python -m pip install --upgrade pip
   
-  conda install pytorch==1.12.1 torchvision==0.13.1 torchaudio==0.12.1 cudatoolkit=11.3 -c pytorch
+  pip install torch==1.12.1+cu113 torchvision==0.13.1+cu113 torchaudio==0.12.1 --extra-index-url https://download.pytorch.org/whl/cu113
   pip install ninja git+https://github.com/NVlabs/tiny-cuda-nn/#subdirectory=bindings/torch
   ```
 
@@ -33,20 +33,27 @@ In this week, we will run NeRF applications and check out the results.
   ![image](https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/f46e7aa2-71d5-43f7-944f-ca155d0f4e5d)
 
 > 1-2. (TODO) Run NeRFacto using your own data [Use custom data on NeRFStudio](https://docs.nerf.studio/en/latest/quickstart/custom_dataset.html)
+  We recommend using COLMAP with images or video
 
 > 1-3. (Optional) Run using other methods: Instant-NGP, Mip-NeRF, TensoRF
 
+2. SDFStudio is an extension of NeRFStudio with multiple surface based rendering models. [SDFStudio project page](https://docs.nerf.studio/en/latest/extensions/sdfstudio.html#)
 
-SDFStudio github: https://github.com/autonomousvision/sdfstudio
+> 2-1. (TODO) Run NeuS on SDFStudio
+  Follow the instructions specified at [SDFStudio github](https://github.com/autonomousvision/sdfstudio)
+  We recommend creating a new environment at a separate directory.
+  ```
+  conda create --name sdfstudio -y python=3.8
+  conda activate sdfstudio
+  python -m pip install --upgrade pip
 
-SDFStudio project page: sdfstudio project page
+  pip install torch==1.12.1+cu113 torchvision==0.13.1+cu113 -f https://download.pytorch.org/whl/torch_stable.html
+  pip install git+https://github.com/NVlabs/tiny-cuda-nn/#subdirectory=bindings/torch
+  ```
 
-SDFStudio is built on top of NeRFStudio, so you can also visualize the training process.
+> 2-2. (TODO) Export mesh using the result of 2-1 
 
-- (TODO) Run NeuS on SDFStudio & Export mesh
-
-One of the advantages of surface based rendering is that you can obtain a very smooth, nice 3D surface. You can check this by running exporter and extract mesh from the implicit scene.
-
+3. ThreeStudio is a framework with a number of text to 3D generation models.
 
 ThreeStudio github:https://github.com/threestudio-project/threestudio
 
