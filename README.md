@@ -29,8 +29,11 @@ In this week, we will run NeRF applications and check out the results.
  ```
   
   Once you successfully execute their code, you will be able to visualize NeRF training.
-:-------------------------:|:-------------------------:
-<img width="835" alt="image" src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/9821ec81-ae1e-455a-b2d1-756cb1064177"> | <img width="835" alt="image" src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/0f7a98c6-e798-4d65-8ef8-fd585eb87332">
+<p float="left">
+  <img src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/9821ec81-ae1e-455a-b2d1-756cb1064177" width="100" />
+  <img src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/0f7a98c6-e798-4d65-8ef8-fd585eb87332" width="100" /> 
+</p>
+<img width="835" alt="image" src=""> | <img width="835" alt="image" src=">
 
 > 1-2. (TODO) Run NeRFacto using your own data [Use custom data on NeRFStudio](https://docs.nerf.studio/en/latest/quickstart/custom_dataset.html)
   We recommend using COLMAP with images or video
