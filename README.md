@@ -9,7 +9,8 @@ In this week, we will run NeRF applications and check out the results.
 1. NeRFStudio has a variety of NeRF implementations and you can visualize the training process online. [NeRFStudio project page](https://docs.nerf.studio/en/latest/index.html)
 
 > 1-1. (TODO) Run NeRFacto and visualize training process
-  Installation and training steps can be found at [NeRFStudio github](https://github.com/nerfstudio-project/nerfstudio). 
+  Installation and training steps can be found at [NeRFStudio github](https://github.com/nerfstudio-project/nerfstudio).
+
   Make virtual environment and install prerequisites 
   ```
   conda create --name nerfstudio -y python=3.8
@@ -37,12 +38,12 @@ In this week, we will run NeRF applications and check out the results.
 > 1-2. (TODO) Run NeRFacto using your own data [Use custom data on NeRFStudio](https://docs.nerf.studio/en/latest/quickstart/custom_dataset.html)
   We recommend using COLMAP with images or video
 
-> 1-3. (Optional) Run using other methods: Instant-NGP, Mip-NeRF, TensoRF
+> 1-3. (Optional) Try other methods: Instant-NGP, Mip-NeRF, TensoRF
 
-2. SDFStudio is an extension of NeRFStudio with multiple surface based rendering models. [SDFStudio project page](https://docs.nerf.studio/en/latest/extensions/sdfstudio.html#)
+2. `SDFStudio` is an extension of NeRFStudio with multiple surface based rendering models. [SDFStudio project page](https://docs.nerf.studio/en/latest/extensions/sdfstudio.html#)
 
-> 2-1. (TODO) Run NeuS on SDFStudio
-  Follow the instructions to install required packages. For more details check out [SDFStudio github](https://github.com/autonomousvision/sdfstudio)
+> 2-1. (TODO) Run `NeuS` on `SDFStudio`
+  Follow the instructions to install required packages. For more details check out [`SDFStudio` github](https://github.com/autonomousvision/sdfstudio)
   We recommend creating a new environment at a separate directory.
   ```
   conda create --name sdfstudio -y python=3.8
