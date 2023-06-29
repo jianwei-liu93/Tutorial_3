@@ -15,3 +15,7 @@ SDFStudio github: https://github.com/autonomousvision/sdfstudio
 SDFStudio project page: sdfstudio project page
 
 SDFStudio is built on top of NeRFStudio, so you can also visualize the training process.
+
+- (TODO) Run NeuS on SDFStudio & Export mesh
+
+One of the advantages of surface based rendering is that you can obtain a very smooth, nice 3D surface. You can check this by running exporter and extract mesh from the implicit scene.
