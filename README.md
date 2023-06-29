@@ -1,6 +1,6 @@
 # Tutorial_3
 ### NeRF applications
-Many of the materials are borrowed from opensource framework. ([NeRFStudio](https://docs.nerf.studio/en/latest/), [SDFStudio](https://docs.nerf.studio/en/latest/extensions/sdfstudio.html), [ThreeStudio](https://github.com/threestudio-project/threestudio)
+NOTE: Many of the materials are borrowed from opensource framework. ([NeRFStudio](https://docs.nerf.studio/en/latest/), [SDFStudio])(https://docs.nerf.studio/en/latest/extensions/sdfstudio.html), [ThreeStudio](https://github.com/threestudio-project/threestudio)
 
 In this week, we will run different NeRF applications. 
 
