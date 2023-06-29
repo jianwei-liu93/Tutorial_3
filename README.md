@@ -1,9 +1,9 @@
 # Tutorial_3
 ### NeRF applications
-NOTE: Many of the materials are borrowed from opensource framework. 
-([NeRFStudio](https://docs.nerf.studio/en/latest/), 
-[SDFStudio](https://docs.nerf.studio/en/latest/extensions/sdfstudio.html), 
-[ThreeStudio](https://github.com/threestudio-project/threestudio))
+NOTE: Most materials are borrowed from opensource framework. 
+- [NeRFStudio](https://docs.nerf.studio/en/latest/): NeRF extensions
+- [SDFStudio](https://docs.nerf.studio/en/latest/extensions/sdfstudio.html): Surface based rendering models
+- [ThreeStudio](https://github.com/threestudio-project/threestudio): 3D generative models
 
 In this week, we will run NeRF applications and check out the results. 
 1. [NeRFStudio](https://docs.nerf.studio/en/latest/) has a variety of NeRF implementations and you can visualize the training process online.
