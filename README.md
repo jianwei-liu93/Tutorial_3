@@ -22,3 +22,9 @@ SDFStudio is built on top of NeRFStudio, so you can also visualize the training 
 - (TODO) Run NeuS on SDFStudio & Export mesh
 
 One of the advantages of surface based rendering is that you can obtain a very smooth, nice 3D surface. You can check this by running exporter and extract mesh from the implicit scene.
+
+
+ThreeStudio github:https://github.com/threestudio-project/threestudio
+
+- (TODO) Run Dreamfusion on ThreeStudio
+- (Optional) Magic3D, ProlificDreamer (⚠ High VRAM usage)
