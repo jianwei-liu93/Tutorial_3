@@ -9,7 +9,7 @@ In this week, we will run NeRF applications and check out the results.
 1. NeRFStudio has a variety of NeRF implementations and you can visualize the training process online. [NeRFStudio project page](https://docs.nerf.studio/en/latest/index.html)
 
 > 1-1. (TODO) Run NeRFacto and visualize training process
-  Installation and training steps can be found at [NeRFStudio github](https://github.com/nerfstudio-project/nerfstudio).
+  Installation and training steps can be found at [NeRFStudio github](https://github.com/nerfstudio-project/nerfstudio). 
   Make virtual environment and install prerequisites 
   ```
   conda create --name nerfstudio -y python=3.8
