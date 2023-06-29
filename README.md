@@ -67,9 +67,11 @@ pip install torch==1.12.1+cu113 torchvision==0.13.1+cu113 --extra-index-url http
 ```
 
 Here's an example of Dreamfusion output.
+
 https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/ded2a674-8906-4faa-ac17-252aa36a759a
 
 > 3-2. (Optional) Magic3D, ProlificDreamer (⚠ High VRAM usage)
+
 Example outputs of Magic3D and ProlificDreamer.
  
 https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/8f0e0830-c445-4958-bd71-8124878e7253
