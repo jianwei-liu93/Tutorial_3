@@ -6,12 +6,12 @@ NOTE: Most materials are borrowed from opensource framework.
 - [ThreeStudio](https://github.com/threestudio-project/threestudio): 3D generative models
 
 In this week, we will run NeRF applications and check out the results. 
-1. [NeRFStudio](https://docs.nerf.studio/en/latest/) has a variety of NeRF implementations and you can visualize the training process online.
+1. NeRFStudio has a variety of NeRF implementations and you can visualize the training process online.
 
-TODO: Run NeRFacto and visualize training process 
-Follow the instructions specified at [NeRFStudio github](https://github.com/nerfstudio-project/nerfstudio).
-Once you successfully execute their code, you will be able to visualize NeRF training.
-![image](https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/f46e7aa2-71d5-43f7-944f-ca155d0f4e5d)
+  1-1. TODO: Run NeRFacto and visualize training process 
+  Follow the instructions specified at [NeRFStudio github](https://github.com/nerfstudio-project/nerfstudio).
+  Once you successfully execute their code, you will be able to visualize NeRF training.
+  ![image](https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/f46e7aa2-71d5-43f7-944f-ca155d0f4e5d)
 
 
 [NeRFStudio project page](https://docs.nerf.studio/en/latest/index.html)
