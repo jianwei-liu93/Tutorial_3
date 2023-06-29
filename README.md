@@ -5,10 +5,9 @@ NOTE: Many of the materials are borrowed from opensource framework.
 [SDFStudio](https://docs.nerf.studio/en/latest/extensions/sdfstudio.html), 
 [ThreeStudio](https://github.com/threestudio-project/threestudio))
 
-In this week, we will run different NeRF applications. 
-
+In this week, we will run NeRF applications and check out the results. 
+1. [NeRFStudio](https://docs.nerf.studio/en/latest/) has a variety of NeRF implementations and you can visualize the training process online.
 NeRFStudio github: https://github.com/nerfstudio-project/nerfstudio
-
 NeRFStudio project page: [nerfstudio project page](https://docs.nerf.studio/en/latest/index.html)
 - (TODO) Run NeRFacto on NeRFStudio
 - (TODO): Try with your own data (COLMAP) : [Use custom data on NeRFStudio](https://docs.nerf.studio/en/latest/quickstart/custom_dataset.html)
