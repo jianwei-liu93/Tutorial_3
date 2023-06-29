@@ -5,8 +5,8 @@ NOTE: Most materials are borrowed from opensource framework.
 - [SDFStudio](https://docs.nerf.studio/en/latest/extensions/sdfstudio.html): Surface based rendering models
 - [ThreeStudio](https://github.com/threestudio-project/threestudio): 3D generative models
 
-In this week, we will run NeRF applications and check out the results. 
-1. NeRFStudio has a variety of NeRF implementations and you can visualize the training process online. [NeRFStudio project page](https://docs.nerf.studio/en/latest/index.html)
+In this week, we will run `NeRF` applications and check out the results. 
+1. `NeRFStudio` has a variety of `NeRF` implementations and you can visualize the training process online. [NeRFStudio project page](https://docs.nerf.studio/en/latest/index.html)
 
 > 1-1. (TODO) Run NeRFacto and visualize training process
   Installation and training steps can be found at [NeRFStudio github](https://github.com/nerfstudio-project/nerfstudio).
@@ -21,7 +21,7 @@ In this week, we will run NeRF applications and check out the results.
   pip install ninja git+https://github.com/NVlabs/tiny-cuda-nn/#subdirectory=bindings/torch
   ```
 
-  Install NeRFStudio
+  Install `NeRFStudio`
   ```
   git clone https://github.com/nerfstudio-project/nerfstudio.git
   cd nerfstudio
@@ -35,15 +35,15 @@ In this week, we will run NeRF applications and check out the results.
   <img src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/0f7a98c6-e798-4d65-8ef8-fd585eb87332" width="500" /> 
 </p>
 
-> 1-2. (TODO) Run NeRFacto using your own data [Use custom data on NeRFStudio](https://docs.nerf.studio/en/latest/quickstart/custom_dataset.html)
-  We recommend using COLMAP with images or video
+> 1-2. (TODO) Run `NeRFacto` using your own data [Use custom data on NeRFStudio](https://docs.nerf.studio/en/latest/quickstart/custom_dataset.html)
+  We recommend using `COLMAP` with images or video
 
-> 1-3. (Optional) Try other methods: Instant-NGP, Mip-NeRF, TensoRF
+> 1-3. (Optional) Try other methods: `Instant-NGP`, `Mip-NeRF`, `TensoRF`
 
 2. `SDFStudio` is an extension of NeRFStudio with multiple surface based rendering models. [SDFStudio project page](https://docs.nerf.studio/en/latest/extensions/sdfstudio.html#)
 
 > 2-1. (TODO) Run `NeuS` on `SDFStudio`
-  Follow the instructions to install required packages. For more details check out [`SDFStudio` github](https://github.com/autonomousvision/sdfstudio)
+  Follow the instructions to install required packages. For more details check out [SDFStudio github](https://github.com/autonomousvision/sdfstudio)
   We recommend creating a new environment at a separate directory.
   ```
   conda create --name sdfstudio -y python=3.8
@@ -56,9 +56,9 @@ In this week, we will run NeRF applications and check out the results.
 
 > 2-2. (TODO) Export mesh using the result of 2-1 
 
-3. ThreeStudio is a framework with various 3D generation models.
+3. `ThreeStudio` is a framework with various 3D generation models.
 
-> 3-1. (TODO) Run Dreamfusion on ThreeStudio
+> 3-1. (TODO) Run `DreamFusion` on ThreeStudio
 Follow the instructions to install prerequisites. You can find more details at [ThreeStudio github](https://github.com/threestudio-project/threestudio).
 ```
 conda create --name threestudio -y python=3.8
@@ -70,13 +70,13 @@ python -m pip install --upgrade pip
 pip install torch==1.12.1+cu113 torchvision==0.13.1+cu113 --extra-index-url https://download.pytorch.org/whl/cu113
 ```
 
-Here's an example of Dreamfusion output.
+Here's an example of DreamFusion output.
 
 https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/ded2a674-8906-4faa-ac17-252aa36a759a
 
-> 3-2. (Optional) Magic3D, ProlificDreamer (⚠ High VRAM usage)
+> 3-2. (Optional) `Magic3D`, `ProlificDreamer` (⚠ High VRAM usage)
 
-Example outputs of Magic3D and ProlificDreamer.
+Example outputs of `Magic3D` and `ProlificDreamer`.
  
 https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/8f0e0830-c445-4958-bd71-8124878e7253
 
