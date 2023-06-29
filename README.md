@@ -28,7 +28,7 @@ In this week, we will run NeRF applications and check out the results.
   pip install -e .
  ```
   
-  Once you successfully execute their code, you will be able to visualize NeRF training.
+  Once you successfully execute their code, you will be provided with a viewer link where you can navigate around the scene online. 
 <p float="left">
   <img src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/9821ec81-ae1e-455a-b2d1-756cb1064177" width="500" />
   <img src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/0f7a98c6-e798-4d65-8ef8-fd585eb87332" width="500" /> 
