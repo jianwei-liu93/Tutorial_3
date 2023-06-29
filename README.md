@@ -11,6 +11,17 @@ In this week, we will run NeRF applications and check out the results.
 > 1-1. (TODO) Run NeRFacto and visualize training process 
   Follow the instructions specified at [NeRFStudio github](https://github.com/nerfstudio-project/nerfstudio).
 
+  Make virtual environment and install prerequisites
+  ```
+  conda create --name nerfstudio -y python=3.8
+  conda activate nerfstudio
+  python -m pip install --upgrade pip
+  
+  
+  pip install ninja git+https://github.com/NVlabs/tiny-cuda-nn/#subdirectory=bindings/torch
+  ```
+
+  Install NeRFStudio
   ```
   git clone https://github.com/nerfstudio-project/nerfstudio.git
   cd nerfstudio
