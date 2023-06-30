@@ -54,7 +54,10 @@ In this week, we will run `NeRF` applications and check out the results.
   pip install git+https://github.com/NVlabs/tiny-cuda-nn/#subdirectory=bindings/torch
   ```
 
-> 2-2. (TODO) Export mesh using the result of 2-1 
+> 2-2. (TODO) Export mesh using the result of 2-1
+Example mesh of Brandenburg gate (takes ~12 hours using 8 GPUs)
+<img width="989" alt="image" src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/9a5e83af-f689-48c7-8199-e18971d92b74">
+
 
 3. `ThreeStudio` is a framework with various 3D generation models.
 
