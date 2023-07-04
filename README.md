@@ -1,8 +1,8 @@
 ## KAIST Geometric AI Lab - Tutorial 1
-Instructor: [Minhyuk Sung](https://mhsung.github.io/) (mhsung@kaist.ac.kr)
-Session Host: **Jaihoon Kim** (Lead), **Seungwoo Yoo** (Support)
-Last Updated: Jun 7, 2023.
-If you have any question, feel free to ask us via Slack DM.
+Instructor: [Minhyuk Sung](https://mhsung.github.io/) (mhsung@kaist.ac.kr) 
+Session Host: **Jaihoon Kim** (Lead), **Seungwoo Yoo** (Support) 
+Last Updated: Jun 7, 2023. 
+If you have any question, feel free to ask us via Slack DM. 
 
 ## NeRF Applications
 NOTE: Most materials are borrowed from opensource framework.
