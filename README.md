@@ -1,4 +1,4 @@
-# Tutorial_3
+### Tutorial_3
 ### NeRF applications
 NOTE: Most materials are borrowed from opensource framework. 
 - [NeRFStudio](https://docs.nerf.studio/en/latest/): NeRF extensions
