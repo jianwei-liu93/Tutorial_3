@@ -1,7 +1,12 @@
-### Tutorial_3
-### NeRF applications
-NOTE: Most materials are borrowed from opensource framework. 
-- [NeRFStudio](https://docs.nerf.studio/en/latest/): NeRF extensions
+## KAIST Geometric AI Lab - Tutorial 1
+Instructor: [Minhyuk Sung](https://mhsung.github.io/) (mhsung@kaist.ac.kr)
+Session Host: **Jaihoon Kim** (Lead), **Seungwoo Yoo** (Support)
+Last Updated: Jun 7, 2023.
+If you have any question, feel free to ask us via Slack DM.
+
+## NeRF Applications
+NOTE: Most materials are borrowed from opensource framework.
+- [NeRFStudio](https://docs.nerf.studio/en/latest/): NeRFStudio is a opensource framework where you can try out various NeRF models
 - [SDFStudio](https://docs.nerf.studio/en/latest/extensions/sdfstudio.html): Surface based rendering models
 - [ThreeStudio](https://github.com/threestudio-project/threestudio): 3D generative models
 
