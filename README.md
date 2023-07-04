@@ -22,9 +22,9 @@ While finishing the task is also important, we recommend you to get more familar
 You only need to clone the repository if you are engaged in the last task. 
 
 ## Environment Setup
-For task 1, 2 and 3, we advise you to follow the instructions specified at [NeRFStudio](https://github.com/nerfstudio-project/nerfstudio), [SDFStudio](https://github.com/autonomousvision/sdfstudio), [ThreeStudio](https://github.com/threestudio-project/threestudio).
+For task 1-7, we advise you to follow the instructions specified at [NeRFStudio](https://github.com/nerfstudio-project/nerfstudio), [SDFStudio](https://github.com/autonomousvision/sdfstudio), [ThreeStudio](https://github.com/threestudio-project/threestudio).
 
-For task 4 make your own {ENVIRONMENT_NAME} as follows
+For task 8 make your own {ENVIRONMENT_NAME} as follows
 ```
 conda create --name {ENVIRONMENT_NAME} -y python=3.8
 conda activate {ENVIRONMENT_NAME}
@@ -38,40 +38,41 @@ pip install torch==1.12.1+cu113 torchvision==0.13.1+cu113 --extra-index-url http
 pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118
 ```
 
-1. `NeRFStudio` has a variety of `NeRF` implementations and you can visualize the training process online. [NeRFStudio project page](https://docs.nerf.studio/en/latest/index.html)
+Optioanlly, install ninja for faster build
+```
+pip install ninja
+```
+Install required packages
+```
+pip install -r requirements.txt
+```
 
-> 1-1. (TODO) Run NeRFacto and visualize training process
-  Installation and training steps can be found at [NeRFStudio github](https://github.com/nerfstudio-project/nerfstudio).
+## Task 1. Run NeRFacto
+Installation and training steps can be found at [NeRFStudio github](https://github.com/nerfstudio-project/nerfstudio).
+After installation, you can run NeRFacto by running this command
+```
+# You can try different data 
+ns-download-data nerfstudio --capture-name=poster
+# Train model
+ns-train nerfacto --data data/nerfstudio/poster
+```
+More theoretical explanation of NeRFacto can be found at [here](https://docs.nerf.studio/en/latest/nerfology/methods/nerfacto.html)
+`NeRFStudio` has a variety of `NeRF` implementations and you can visualize the training process online. [NeRFStudio project page](https://docs.nerf.studio/en/latest/index.html)
 
-  Make virtual environment and install prerequisites 
-  ```
-  conda create --name nerfstudio -y python=3.8
-  conda activate nerfstudio
-  python -m pip install --upgrade pip
-  
-  pip install torch==1.12.1+cu113 torchvision==0.13.1+cu113 torchaudio==0.12.1 --extra-index-url https://download.pytorch.org/whl/cu113
-  pip install ninja git+https://github.com/NVlabs/tiny-cuda-nn/#subdirectory=bindings/torch
-  ```
-
-  Install `NeRFStudio`
-  ```
-  git clone https://github.com/nerfstudio-project/nerfstudio.git
-  cd nerfstudio
-  pip install --upgrade pip setuptools
-  pip install -e .
- ```
-  
-  Once you successfully execute their code, you will be provided with a viewer link where you can navigate around the scene online. 
+Once you successfully execute their code, you will be provided with a viewer link where you can navigate around the scene online. 
 <p float="left">
   <img src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/9821ec81-ae1e-455a-b2d1-756cb1064177" width="500" />
   <img src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/0f7a98c6-e798-4d65-8ef8-fd585eb87332" width="500" /> 
 </p>
 
-> 1-2. (TODO) Run `NeRFacto` using your own data [Use custom data on NeRFStudio](https://docs.nerf.studio/en/latest/quickstart/custom_dataset.html)
-  We recommend using `COLMAP` with images or video
+## Task 2. Try your own data
+Run `NeRFacto` using your own data [Use custom data on NeRFStudio](https://docs.nerf.studio/en/latest/quickstart/custom_dataset.html)
+We recommend using `COLMAP` with images or video. Note that when taking images they should overlap densely over each other. 
 
-> 1-3. (Optional) Try other methods: `Instant-NGP`, `Mip-NeRF`, `TensoRF`
+## Task 3. (Optional) Try other methods: `Instant-NGP`, `Mip-NeRF`, `TensoRF`
+Theoretical background and training examples can be found at [InstantNGP](https://docs.nerf.studio/en/latest/nerfology/methods/instant_ngp.html), [Mip-NeRF](https://docs.nerf.studio/en/latest/nerfology/methods/mipnerf.html) and [TensoRF](https://docs.nerf.studio/en/latest/nerfology/methods/tensorf.html).
 
+## Task 4. Run NeuS
 2. `SDFStudio` is an extension of NeRFStudio with multiple surface based rendering models. [SDFStudio project page](https://docs.nerf.studio/en/latest/extensions/sdfstudio.html#)
 
 > 2-1. (TODO) Run `NeuS` on `SDFStudio`
