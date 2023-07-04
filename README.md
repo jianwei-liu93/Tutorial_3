@@ -10,11 +10,13 @@ If you have any question, feel free to ask us via Slack DM.
 ## NeRF Applications
 NOTE: Most materials are borrowed from opensource framework.
 - [NeRFStudio](https://docs.nerf.studio/en/latest/): NeRFStudio is a opensource framework where you can try out various NeRF models
-- [SDFStudio](https://docs.nerf.studio/en/latest/extensions/sdfstudio.html): Surface based rendering models
-- [ThreeStudio](https://github.com/threestudio-project/threestudio): 3D generative models
+- [SDFStudio](https://docs.nerf.studio/en/latest/extensions/sdfstudio.html): SDFStudio is built on top of NeRFStudio and provides various neural implicit surface reconstruction models.
+- [ThreeStudio](https://github.com/threestudio-project/threestudio): ThreeStudio is a framework for creating 3D contetns. They provide zero-shot, one-shot and few-shot generation models. 
 
 In this week, we will run `NeRF` applications and check out the results. 
 While you are expected to finish all the parts marked as **TODO**, you can skip tasks marked as **Optional**.
+Most of the tasks in this week are focused on installation, training and visualizing the results, and we left the most challenging task at the end, feel free to check out. 
+While finishing the task is also important, we recommend you to get more familar with various NeRF methods theoretically, it would be even better if you check their implementations. 
 
 1. `NeRFStudio` has a variety of `NeRF` implementations and you can visualize the training process online. [NeRFStudio project page](https://docs.nerf.studio/en/latest/index.html)
 
