@@ -18,6 +18,18 @@ While you are expected to finish all the parts marked as **TODO**, you can skip 
 Most of the tasks in this week are focused on installation, training and visualizing the results, and we left the most challenging task at the end, feel free to check out. 
 While finishing the task is also important, we recommend you to get more familar with various NeRF methods theoretically, it would be even better if you check their implementations. 
 
+## Project Structure
+You only need to clone the repository if you are engaged in the last task. 
+
+## Environment Setup
+We advise you to create separate environment for each task, namely NeRFStudio, SDFStudio, ThreeStudio and {YOUR_ENV} for the last task.
+```
+# torch1.12.1+cu113
+pip install torch==1.12.1+cu113 torchvision==0.13.1+cu113 --extra-index-url https://download.pytorch.org/whl/cu113
+# or torch2.0.0+cu118
+pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118
+```
+
 1. `NeRFStudio` has a variety of `NeRF` implementations and you can visualize the training process online. [NeRFStudio project page](https://docs.nerf.studio/en/latest/index.html)
 
 > 1-1. (TODO) Run NeRFacto and visualize training process
