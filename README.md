@@ -1,4 +1,4 @@
-## KAIST Geometric AI Lab - Tutorial 1
+## KAIST Geometric AI Lab - Tutorial 3
 Instructor: [Minhyuk Sung](https://mhsung.github.io/) (mhsung@kaist.ac.kr) 
 
 Session Host: **Jaihoon Kim** (Lead), **Seungwoo Yoo** (Support) 
@@ -7,7 +7,6 @@ Last Updated: Jun 7, 2023.
 
 If you have any question, feel free to ask us via Slack DM. 
 
-
 ## NeRF Applications
 NOTE: Most materials are borrowed from opensource framework.
 - [NeRFStudio](https://docs.nerf.studio/en/latest/): NeRFStudio is a opensource framework where you can try out various NeRF models
@@ -15,6 +14,8 @@ NOTE: Most materials are borrowed from opensource framework.
 - [ThreeStudio](https://github.com/threestudio-project/threestudio): 3D generative models
 
 In this week, we will run `NeRF` applications and check out the results. 
+While you are expected to finish all the parts marked as **TODO**, you can skip tasks marked as **Optional**.
+
 1. `NeRFStudio` has a variety of `NeRF` implementations and you can visualize the training process online. [NeRFStudio project page](https://docs.nerf.studio/en/latest/index.html)
 
 > 1-1. (TODO) Run NeRFacto and visualize training process
