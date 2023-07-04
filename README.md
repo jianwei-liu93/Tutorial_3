@@ -22,7 +22,15 @@ While finishing the task is also important, we recommend you to get more familar
 You only need to clone the repository if you are engaged in the last task. 
 
 ## Environment Setup
-We advise you to create separate environment for each task, namely NeRFStudio, SDFStudio, ThreeStudio and {YOUR_ENV} for the last task.
+For task 1, 2 and 3, we advise you to follow the instructions specified at [NeRFStudio](https://github.com/nerfstudio-project/nerfstudio), [SDFStudio](https://github.com/autonomousvision/sdfstudio), [ThreeStudio](https://github.com/threestudio-project/threestudio).
+
+For task 4 make your own {ENVIRONMENT_NAME} as follows
+```
+conda create --name {ENVIRONMENT_NAME} -y python=3.8
+conda activate {ENVIRONMENT_NAME}
+python -m pip install --upgrade pip
+```
+
 ```
 # torch1.12.1+cu113
 pip install torch==1.12.1+cu113 torchvision==0.13.1+cu113 --extra-index-url https://download.pytorch.org/whl/cu113
