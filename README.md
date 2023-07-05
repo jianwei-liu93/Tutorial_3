@@ -8,6 +8,11 @@ Last Updated: Jun 7, 2023.
 If you have any question, feel free to ask us via Slack DM. 
 
 ## NeRF Applications
+
+
+https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/c39d0be5-252e-47c9-9d97-7098bd0ca291
+
+
 NOTE: Most of the materials we provide here are heavily dependent on opensource framework. 
 - [NeRFStudio](https://docs.nerf.studio/en/latest/): NeRFStudio is a opensource framework where you can try out various NeRF models
 - [SDFStudio](https://docs.nerf.studio/en/latest/extensions/sdfstudio.html): SDFStudio is built on top of NeRFStudio and provides various neural implicit surface reconstruction models.
