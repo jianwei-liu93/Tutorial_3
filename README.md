@@ -73,19 +73,14 @@ We recommend using `COLMAP` with images or video. Note that when taking images t
 Theoretical background and training examples can be found at [InstantNGP](https://docs.nerf.studio/en/latest/nerfology/methods/instant_ngp.html), [Mip-NeRF](https://docs.nerf.studio/en/latest/nerfology/methods/mipnerf.html) and [TensoRF](https://docs.nerf.studio/en/latest/nerfology/methods/tensorf.html).
 
 ## Task 4. Run NeuS
-[SDFStudio project page](https://docs.nerf.studio/en/latest/extensions/sdfstudio.html#)
-Follow the instructions to install required packages. For more details check out [SDFStudio github](https://github.com/autonomousvision/sdfstudio)
-  We recommend creating a new environment at a separate directory.
-  ```
-  conda create --name sdfstudio -y python=3.8
-  conda activate sdfstudio
-  python -m pip install --upgrade pip
+You can check available methods at [SDFStudio project page](https://docs.nerf.studio/en/latest/extensions/sdfstudio.html#).
 
-  pip install torch==1.12.1+cu113 torchvision==0.13.1+cu113 -f https://download.pytorch.org/whl/torch_stable.html
-  pip install git+https://github.com/NVlabs/tiny-cuda-nn/#subdirectory=bindings/torch
-  ```
+We recommend creating a new environment at a separate directory.
+Follow the instructions to install required packages. [SDFStudio github](https://github.com/autonomousvision/sdfstudio)
 
-> 2-2. (TODO) Export mesh using the result of 2-1
+## Task 5. Export mesh
+In this task, you should export mesh using the result of previous task.
+
 Example mesh of Brandenburg gate (takes ~12 hours using 8 GPUs)
 <img width="989" alt="image" src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/9a5e83af-f689-48c7-8199-e18971d92b74">
 
