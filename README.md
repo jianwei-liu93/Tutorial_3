@@ -8,7 +8,7 @@ Last Updated: Jun 7, 2023.
 If you have any question, feel free to ask us via Slack DM. 
 
 ## NeRF Applications
-NOTE: Most materials are borrowed from opensource framework.
+NOTE: Most of the materials we provide here are heavily dependent on opensource framework. 
 - [NeRFStudio](https://docs.nerf.studio/en/latest/): NeRFStudio is a opensource framework where you can try out various NeRF models
 - [SDFStudio](https://docs.nerf.studio/en/latest/extensions/sdfstudio.html): SDFStudio is built on top of NeRFStudio and provides various neural implicit surface reconstruction models.
 - [ThreeStudio](https://github.com/threestudio-project/threestudio): ThreeStudio is a framework for creating 3D contetns. They provide zero-shot, one-shot and few-shot generation models. 
@@ -73,10 +73,8 @@ We recommend using `COLMAP` with images or video. Note that when taking images t
 Theoretical background and training examples can be found at [InstantNGP](https://docs.nerf.studio/en/latest/nerfology/methods/instant_ngp.html), [Mip-NeRF](https://docs.nerf.studio/en/latest/nerfology/methods/mipnerf.html) and [TensoRF](https://docs.nerf.studio/en/latest/nerfology/methods/tensorf.html).
 
 ## Task 4. Run NeuS
-2. `SDFStudio` is an extension of NeRFStudio with multiple surface based rendering models. [SDFStudio project page](https://docs.nerf.studio/en/latest/extensions/sdfstudio.html#)
-
-> 2-1. (TODO) Run `NeuS` on `SDFStudio`
-  Follow the instructions to install required packages. For more details check out [SDFStudio github](https://github.com/autonomousvision/sdfstudio)
+[SDFStudio project page](https://docs.nerf.studio/en/latest/extensions/sdfstudio.html#)
+Follow the instructions to install required packages. For more details check out [SDFStudio github](https://github.com/autonomousvision/sdfstudio)
   We recommend creating a new environment at a separate directory.
   ```
   conda create --name sdfstudio -y python=3.8
