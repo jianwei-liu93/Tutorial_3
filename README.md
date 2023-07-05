@@ -78,32 +78,32 @@ You can check available methods at [SDFStudio project page](https://docs.nerf.st
 We recommend creating a new environment at a separate directory.
 Follow the instructions to install required packages. [SDFStudio github](https://github.com/autonomousvision/sdfstudio)
 
+You can check available dataset at [SDFStudio dataset](https://github.com/autonomousvision/sdfstudio/blob/master/docs/sdfstudio-data.md)
+Select any dataset you prefer and train NeuSFacto. 
+
 ## Task 5. Export mesh
-In this task, you should export mesh using the result of previous task.
+Once you have completed training, you can visualize implicit function by mesh extraction. 
+Use the following command. 
+```
+ns-extract-mesh --load-config outputs/neus-facto-dtu65/neus-facto/XXX/config.yml --output-path meshes/neus-facto-dtu65.ply
+```
 
 Example mesh of Brandenburg gate (takes ~12 hours using 8 GPUs)
 <img width="989" alt="image" src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/9a5e83af-f689-48c7-8199-e18971d92b74">
 
-
-3. `ThreeStudio` is a framework with various 3D generation models.
-
-> 3-1. (TODO) Run `DreamFusion` on ThreeStudio
+## Task 6. Run `DreamFusion`
 Follow the instructions to install prerequisites. You can find more details at [ThreeStudio github](https://github.com/threestudio-project/threestudio).
-```
-conda create --name threestudio -y python=3.8
-conda activate threestudio
-python -m pip install --upgrade pip
 
-# We recommend using torch 1.12
-# torch1.12.1+cu113
-pip install torch==1.12.1+cu113 torchvision==0.13.1+cu113 --extra-index-url https://download.pytorch.org/whl/cu113
-```
+Run DreamFusion using either Stable Diffusion model or DeepFloy IF. 
+Freely select text prompt you prefer and train the model.
 
 Here's an example of DreamFusion output.
 
 https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/ded2a674-8906-4faa-ac17-252aa36a759a
 
-> 3-2. (Optional) `Magic3D`, `ProlificDreamer` (⚠ High VRAM usage)
+## Task 7. (Optional) Try other methods: `Magic3D`, `ProlificDreamer` (⚠ High VRAM usage)
+Train other methods available on ThreeStudio. 
+How do the results differ to vanilla DreamFusion ?
 
 Example outputs of `Magic3D` and `ProlificDreamer`.
  
