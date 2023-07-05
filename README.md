@@ -1,4 +1,4 @@
-## KAIST Geometric AI Lab - Tutorial 3
+![1122](https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/685a1779-48ce-4f03-854d-174777c8791f)![1122](https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/4b81e0d3-b777-4ab1-bfeb-a1793b4061e2)## KAIST Geometric AI Lab - Tutorial 3
 Instructor: [Minhyuk Sung](https://mhsung.github.io/) (mhsung@kaist.ac.kr) 
 
 Session Host: **Jaihoon Kim** (Lead), **Seungwoo Yoo** (Support) 
@@ -8,6 +8,8 @@ Last Updated: Jun 7, 2023.
 If you have any question, feel free to ask us via Slack DM. 
 
 ## NeRF Applications
+![1122](https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/6e635445-8c78-4d9e-a8b0-73668c93640c)  |  ![1122](https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/6e635445-8c78-4d9e-a8b0-73668c93640c)
+
 
 ![243357000-27b42d8f-4aa4-4b47-8ea](https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/3937bc22-e3ff-4ddc-ae86-8d4dd7817c61)
 
