@@ -116,3 +116,5 @@ Example outputs of `Magic3D` and `ProlificDreamer`.
 https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/8f0e0830-c445-4958-bd71-8124878e7253
 
 https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/973c4d1e-22ee-4423-8543-0fd799aec83d
+
+## Task 8. (Optional) 
