@@ -9,9 +9,7 @@ If you have any question, feel free to ask us via Slack DM.
 
 ## NeRF Applications
 
-
-https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/c39d0be5-252e-47c9-9d97-7098bd0ca291
-
+![243357000-27b42d8f-4aa4-4b47-8ea](https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/3937bc22-e3ff-4ddc-ae86-8d4dd7817c61)
 
 NOTE: Most of the materials we provide here are heavily dependent on opensource framework. 
 - [NeRFStudio](https://docs.nerf.studio/en/latest/): NeRFStudio is a opensource framework where you can try out various NeRF models
