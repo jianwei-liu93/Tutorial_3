@@ -8,6 +8,7 @@ Last Updated: Jun 7, 2023.
 If you have any question, feel free to ask us via Slack DM. 
 
 ## NeRF Applications
+| | |
 | ---------------------- | ---------------------- |
 | ![1122](https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/6e635445-8c78-4d9e-a8b0-73668c93640c) | ![1122](https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/6e635445-8c78-4d9e-a8b0-73668c93640c) |
 
