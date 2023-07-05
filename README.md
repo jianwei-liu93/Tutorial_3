@@ -25,7 +25,7 @@ Most of the tasks in this week are focused on installation, training and visuali
 While finishing the task is also important, we recommend you to get more familar with various NeRF methods theoretically, it would be even better if you check their implementations. 
 
 ## Project Structure
-You only need to clone the repository if you are engaged in the last task. 
+You will work on opensource frameworks, so we will not provide any project skeleton code.
 
 ## Environment Setup
 For task 1-7, we advise you to follow the instructions specified at [NeRFStudio](https://github.com/nerfstudio-project/nerfstudio), [SDFStudio](https://github.com/autonomousvision/sdfstudio), [ThreeStudio](https://github.com/threestudio-project/threestudio).
@@ -117,4 +117,7 @@ https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/8f0e0830-
 
 https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/973c4d1e-22ee-4423-8543-0fd799aec83d
 
-## Task 8. (Optional) 
+## Task 8. (Optional) Extend framework
+Pick any paper from [here](https://www.notion.so/geometry-kaist/Tutorial-3-NeRF-Applications-12aad39d9dec4d22b17475fd25bc0f17?pvs=4) and extend NeRFStudio/SDFStudio/ThreeStudio. 
+
+Note that the paper you pick should not be present on the framework. 
