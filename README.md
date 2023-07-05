@@ -10,7 +10,7 @@ If you have any question, feel free to ask us via Slack DM.
 ## NeRF Applications
 | Cat pics               | Dog pics               |
 | ---------------------- | ---------------------- |
-| ![1122](https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/6e635445-8c78-4d9e-a8b0-73668c93640c) | ![1122](https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/6e635445-8c78-4d9e-a8b0-73668c93640c) |
+| <img src="https://github.com/favicon.ico](https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/6e635445-8c78-4d9e-a8b0-73668c93640c" width="48"> | ![1122](https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/6e635445-8c78-4d9e-a8b0-73668c93640c) |
 
 ![243357000-27b42d8f-4aa4-4b47-8ea](https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/3937bc22-e3ff-4ddc-ae86-8d4dd7817c61)
 
