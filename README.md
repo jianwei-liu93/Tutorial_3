@@ -108,7 +108,8 @@ Here's an example of DreamFusion output.
 
 https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/ded2a674-8906-4faa-ac17-252aa36a759a
 
-## Task 7. (Optional) Try other methods: `Magic3D`, `ProlificDreamer` (⚠ High VRAM usage)
+## Task 7. (Optional) Try other methods: `Magic3D`, `ProlificDreamer` 
+(⚠ High VRAM usage)
 Train other methods available on ThreeStudio. 
 How do the results differ to vanilla DreamFusion ?
 
