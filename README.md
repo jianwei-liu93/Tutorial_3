@@ -67,9 +67,9 @@ More theoretical explanation of NeRFacto can be found at [here](https://docs.ner
 `NeRFStudio` has a variety of `NeRF` implementations and you can visualize the training process online. [NeRFStudio project page](https://docs.nerf.studio/en/latest/index.html)
 
 Once you successfully execute their code, you will be provided with a viewer link where you can navigate around the scene online. 
-<p float="left">
-  <img src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/9821ec81-ae1e-455a-b2d1-756cb1064177" width="500" />
-  <img src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/0f7a98c6-e798-4d65-8ef8-fd585eb87332" width="500" /> 
+<p align="center">
+  <img width="300" src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/9821ec81-ae1e-455a-b2d1-756cb1064177" width="500" />
+  <img width="300" src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/0f7a98c6-e798-4d65-8ef8-fd585eb87332" width="500" /> 
 </p>
 
 ## Task 2. Try your own data
