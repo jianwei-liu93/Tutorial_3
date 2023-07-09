@@ -96,7 +96,9 @@ ns-extract-mesh --load-config outputs/neus-facto-dtu65/neus-facto/XXX/config.yml
 ```
 
 Example mesh of Brandenburg gate (takes ~12 hours using 8 GPUs)
-<img width="400" src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/9a5e83af-f689-48c7-8199-e18971d92b74">
+<p align="center">
+  <img width="400" src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/9a5e83af-f689-48c7-8199-e18971d92b74">
+<\p>
 
 ## Task 6. Run `DreamFusion`
 Follow the instructions to install prerequisites. You can find more details at [ThreeStudio github](https://github.com/threestudio-project/threestudio).
