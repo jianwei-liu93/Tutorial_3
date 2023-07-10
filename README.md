@@ -108,7 +108,7 @@ Freely select text prompt you prefer and train the model.
 
 Here's an example of DreamFusion output.
 
-![dreamfusion](https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/d46bb335-29de-4860-b0e8-ef10a9810d78)
+<img width="400" src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/d46bb335-29de-4860-b0e8-ef10a9810d78">
 
 ## Task 7. (Optional) Try other methods: `Magic3D`, `ProlificDreamer` 
 (⚠ High VRAM usage)
