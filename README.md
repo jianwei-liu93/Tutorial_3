@@ -9,7 +9,7 @@ If you have any question, feel free to ask us via Slack DM.
 
 ## NeRF Applications
 <p align="center">
-  <img width='400' src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/b3e0296f-f868-4c31-9d0b-9a6276365139"/>
+  <img width='400' src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/58447982/b3e0296f-f868-4c31-9d0b-9a6276365139"/>
   <img width='400' src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/6e635445-8c78-4d9e-a8b0-73668c93640c"/>
 </p>
 
