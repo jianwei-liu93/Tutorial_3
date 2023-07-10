@@ -68,8 +68,8 @@ More theoretical explanation of NeRFacto can be found at [here](https://docs.ner
 
 Once you successfully execute their code, you will be provided with a viewer link where you can navigate around the scene online. 
 <p align="center">
-  <img width="300" src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/9821ec81-ae1e-455a-b2d1-756cb1064177" width="500" />
-  <img width="300" src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/0f7a98c6-e798-4d65-8ef8-fd585eb87332" width="500" /> 
+  <img width="300" src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/21535800-99e7-4396-8355-6b9eb25ed84b" width="500" />
+  <img width="300" src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/898caa77-a074-431c-94c3-630f3f2210d2" width="500" /> 
 </p>
 
 ## Task 2. Try your own data
