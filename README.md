@@ -6,9 +6,6 @@ Session Host: **Jaihoon Kim** (Lead), **Seungwoo Yoo** (Support)
 Last Updated: Jun 7, 2023. 
 
 If you have any question, feel free to ask us via Slack DM. 
-![nerfacto](https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/93055c6c-debe-47ce-bda2-21198f520385)
-![neus](https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/93637bf7-fc2e-4c08-a67e-0606942104aa)
-![prolificdreamer](https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/c469c5be-a0f3-4aff-8023-2ccee672b9c4)
 
 ## NeRF Applications
 <p align="center">
