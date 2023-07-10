@@ -117,8 +117,10 @@ How do the results differ to vanilla DreamFusion ?
 
 Example outputs of `Magic3D` and `ProlificDreamer`.
 
+![dreamfusion](https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/f9136b33-043b-4ba9-9f0f-857cdf860f0c)
+
 <p align="center">
-  <img width="400" src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/bc69205d-6eee-4eba-82ab-3871bb14d4db">
+  <img width="400" src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/ba274f53-c4c7-4c73-91e8-fd8c7adf1560">
   <img width="400" src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/4dbb2450-1cd5-45de-9914-eb11d9477181">
 </p>
 
