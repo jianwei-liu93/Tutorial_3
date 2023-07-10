@@ -6,14 +6,17 @@ Session Host: **Jaihoon Kim** (Lead), **Seungwoo Yoo** (Support)
 Last Updated: Jun 7, 2023. 
 
 If you have any question, feel free to ask us via Slack DM. 
+![nerfacto](https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/93055c6c-debe-47ce-bda2-21198f520385)
+![neus](https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/93637bf7-fc2e-4c08-a67e-0606942104aa)
+![prolificdreamer](https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/c469c5be-a0f3-4aff-8023-2ccee672b9c4)
 
 ## NeRF Applications
 <p align="center">
-  <img width='400' src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/b3e0296f-f868-4c31-9d0b-9a6276365139"/>
-  <img width='400' src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/6e635445-8c78-4d9e-a8b0-73668c93640c"/>
+  <img width='400' src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/93055c6c-debe-47ce-bda2-21198f520385"/>
+  <img width='400' src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/93637bf7-fc2e-4c08-a67e-0606942104aa"/>
 </p>
 
-![243357000-27b42d8f-4aa4-4b47-8ea](https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/3937bc22-e3ff-4ddc-ae86-8d4dd7817c61)
+![243357000-27b42d8f-4aa4-4b47-8ea](https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/c469c5be-a0f3-4aff-8023-2ccee672b9c4)
 
 NOTE: Most of the materials we provide here are heavily dependent on opensource framework. 
 - [NeRFStudio](https://docs.nerf.studio/en/latest/): NeRFStudio is a opensource framework where you can try out various NeRF models
