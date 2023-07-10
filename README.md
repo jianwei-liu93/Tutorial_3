@@ -108,7 +108,7 @@ Freely select text prompt you prefer and train the model.
 
 Here's an example of DreamFusion output.
 
-<img width="300" src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/93067278-008b-417a-8614-fc246b006686">
+<img width="300" src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/f9136b33-043b-4ba9-9f0f-857cdf860f0c">
 
 ## Task 7. (Optional) Try other methods: `Magic3D`, `ProlificDreamer` 
 (⚠ High VRAM usage)
@@ -116,8 +116,6 @@ Train other methods available on ThreeStudio.
 How do the results differ to vanilla DreamFusion ?
 
 Example outputs of `Magic3D` and `ProlificDreamer`.
-
-![dreamfusion](https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/f9136b33-043b-4ba9-9f0f-857cdf860f0c)
 
 <p align="center">
   <img width="400" src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/ba274f53-c4c7-4c73-91e8-fd8c7adf1560">
