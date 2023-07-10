@@ -97,7 +97,7 @@ ns-extract-mesh --load-config outputs/neus-facto-dtu65/neus-facto/XXX/config.yml
 
 Example mesh of Brandenburg gate (takes ~12 hours using 8 GPUs)
 <p align="center">
-  <img width="400" src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/9a5e83af-f689-48c7-8199-e18971d92b74">
+  <img width="400" src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/37b1001f-3dd4-4c59-862a-21e7b383ba01">
 </p>
 
 ## Task 6. Run `DreamFusion`
@@ -108,7 +108,7 @@ Freely select text prompt you prefer and train the model.
 
 Here's an example of DreamFusion output.
 
-https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/ded2a674-8906-4faa-ac17-252aa36a759a
+![dreamfusion](https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/d46bb335-29de-4860-b0e8-ef10a9810d78)
 
 ## Task 7. (Optional) Try other methods: `Magic3D`, `ProlificDreamer` 
 (⚠ High VRAM usage)
@@ -116,10 +116,9 @@ Train other methods available on ThreeStudio.
 How do the results differ to vanilla DreamFusion ?
 
 Example outputs of `Magic3D` and `ProlificDreamer`.
- 
-https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/8f0e0830-c445-4958-bd71-8124878e7253
+![magic3d](https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/07a774ec-b7e7-470a-b14e-b1e6e7a3d5a8)
 
-https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/973c4d1e-22ee-4423-8543-0fd799aec83d
+![prolific](https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/4dbb2450-1cd5-45de-9914-eb11d9477181)
 
 ## Task 8. (Optional) Extend framework
 Pick any paper from [here](https://www.notion.so/geometry-kaist/Tutorial-3-NeRF-Applications-12aad39d9dec4d22b17475fd25bc0f17?pvs=4) and extend NeRFStudio/SDFStudio/ThreeStudio. 
