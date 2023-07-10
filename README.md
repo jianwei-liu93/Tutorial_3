@@ -116,9 +116,11 @@ Train other methods available on ThreeStudio.
 How do the results differ to vanilla DreamFusion ?
 
 Example outputs of `Magic3D` and `ProlificDreamer`.
-![magic3d](https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/07a774ec-b7e7-470a-b14e-b1e6e7a3d5a8)
 
-![prolific](https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/4dbb2450-1cd5-45de-9914-eb11d9477181)
+<p align="center">
+  <img width="400" src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/07a774ec-b7e7-470a-b14e-b1e6e7a3d5a8">
+  <img width="400" src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/4dbb2450-1cd5-45de-9914-eb11d9477181">
+</p>
 
 ## Task 8. (Optional) Extend framework
 Pick any paper from [here](https://www.notion.so/geometry-kaist/Tutorial-3-NeRF-Applications-12aad39d9dec4d22b17475fd25bc0f17?pvs=4) and extend NeRFStudio/SDFStudio/ThreeStudio. 
